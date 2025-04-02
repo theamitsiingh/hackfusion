@@ -1,0 +1,4 @@
+2025-04-02 12:21:55,178 - HackFusion - INFO - Starting HackFusion...
+2025-04-02 12:22:52,202 - HackFusion - ERROR - Nmap is not enabled in configuration
+2025-04-02 12:23:30,186 - HackFusion - ERROR - Error generating report: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
